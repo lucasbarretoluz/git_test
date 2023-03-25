@@ -1,3 +1,4 @@
 teste 2 git
 adcionando para comita
 testa checkout
+comit 2 na branchB
